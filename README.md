@@ -6,7 +6,7 @@ This repository contains my structured progress and solutions while preparing fo
 💡 The goal is to master Data Structures and Algorithms, develop strong problem-solving skills, and build the right mindset for tackling FAANG-level coding interviews.
 
 📌 What’s Included:
-✅ Daily problem-solving tracker
+✅ Weekly problem-solving tracker
 
 📂 Solutions in Java (my primary language)
 
