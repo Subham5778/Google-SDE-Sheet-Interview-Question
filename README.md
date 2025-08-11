@@ -6,13 +6,9 @@ This repository contains my structured progress and solutions while preparing fo
 💡 The goal is to master Data Structures and Algorithms, develop strong problem-solving skills, and build the right mindset for tackling FAANG-level coding interviews.
 
 📌 What’s Included:
-✅ Weekly problem-solving tracker
+✅ problem-solving tracker
 
 📂 Solutions in Java (my primary language)
-
-📄 Explanations and approaches for each problem
-
-✍️ Notes on patterns, edge cases, and optimizations
 
 🔗 References to LeetCode and GeeksforGeeks problems
 
@@ -25,6 +21,6 @@ Dynamic Programming, Heaps, Tries, Bit Manipulation
 
 System Design (basic level for SDE-1)
 
-🔁 This repo is weekly updated as I continue my journey to crack Google and other top tech companies.
+🔁 This repo is updated as I continue my journey to crack Google and other top tech companies.
 
 
